@@ -8,6 +8,8 @@ Build your Job List in minutes without setting up a backend server or database. 
 1. [NextJS (14+)](https://nextjs.org/)
 2. [TailwindCSS (DaisyUI) v4](https://daisyui.com/)
 3. [HeroIcons](https://heroicons.com/)
+4. [JSONsilo.com](https://jsonsilo.com/)
+   
 ## Setup
 
 1. If you haven't already, you can [sign up](https://jsonsilo.com/user/signup) for a jsonsilo.com account.
